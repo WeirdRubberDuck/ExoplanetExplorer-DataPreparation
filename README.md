@@ -1,6 +1,6 @@
 # ExoplanetExplorer-DataPreparation
 
-Tools and configuration for preparing exoplanet datasets for use with ExoplanetExplorer. Run the provided `datapreparation.py` script to download and preprocess the data. The `datasettings_exoplanets.json` file provides an example configuration for the resulting CSV.
+Tools and configuration for preparing exoplanet datasets for use with [ExoplanetExplorer](https://immvis.appvis.se/projects/exoplanet_explorer/). Run the provided `datapreparation.py` script to download and preprocess the data. The `datasettings_exoplanets.json` file provides an example configuration for the resulting CSV.
 
 ## Other Source Code
 
