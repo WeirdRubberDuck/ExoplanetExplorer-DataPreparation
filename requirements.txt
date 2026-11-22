@@ -1,0 +1,11 @@
+astropy==7.2.0
+astropy-iers-data==0.2026.2.9.0.50.33
+mocapy==0.1.dev86+g59a64b732
+numpy==2.5.4
+packaging==26.0
+pandas==3.0.6
+pyerfa==2.0.1.5
+python-dateutil==2.9.0.post0
+PyYAML==6.0.3
+six==1.17.0
+tzdata==2025.3
